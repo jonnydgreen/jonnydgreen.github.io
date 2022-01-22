@@ -114,4 +114,4 @@ Very warm! But, historically, you have to commit to find the true answer! As Gan
 <br/>
 <br/>
 
-Built with Jekyll, check out the [Source Code](https://github.com/jonnydgreen/jonnydgreen.github.io)!
+Built with Jekyll, check out the [Source Code](https://github.com/jonnydgreen/jonnydgreen.github.io/commits/main/README.md)!
